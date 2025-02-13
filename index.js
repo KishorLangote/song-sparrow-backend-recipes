@@ -1,10 +1,17 @@
 const express = require("express")
-const cors = require("cors")
+
 const app = express()
 const { initializeDatabase } = require("./db/db.connect")
 const Recipe = require("./models/recipe.models")
 
-app.use(cors()) // middleware...
+const cors = require("cors")
+const corsOptions = {
+  origin: "*",
+  credentials: true,
+  optionSuccessStatus: 200,
+};
+
+app.use(cors(corsOptions)); // middlerware
 
 app.use(express.json()) // middleware..
 
