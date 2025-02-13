@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "author": "Sanjeev Kapoor",
+    "difficulty": "Intermediate",
+    "prepTime": 20,
+    "cookTime": 15,
+    "ingredients": [
+      "200g spaghetti",
+      "100g guanciale or pancetta, diced",
+      "2 large eggs",
+      "50g grated Pecorino Romano cheese",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook the spaghetti in boiling salted water until al dente.",
+      "Meanwhile, sauté the guanciale or pancetta until crispy.",
+      "In a bowl, whisk together eggs and grated cheese.",
+      "Drain the spaghetti and immediately toss with the egg mixture and cooked guanciale/pancetta.",
+      "Season with salt and pepper. Serve immediately."
+    ],
+    "imageUrl": "https://example.com/spaghetti_carbonara.jpg"
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "author": "Sanjeev Kapoor",
+    "difficulty": "Intermediate",
+    "prepTime": 30,
+    "cookTime": 30,
+    "ingredients": [
+      "500g boneless, skinless chicken thighs, cut into bite-sized pieces",
+      "1 cup plain yogurt",
+      "2 tablespoons vegetable oil",
+      "2 onions, finely chopped",
+      "4 cloves garlic, minced",
+      "1-inch piece of ginger, grated",
+      "2 teaspoons ground coriander",
+      "1 teaspoon ground cumin",
+      "1 teaspoon paprika",
+      "1/2 teaspoon turmeric",
+      "1/2 teaspoon cayenne pepper (adjust to taste)",
+      "1 cup tomato puree",
+      "1 cup heavy cream",
+      "Salt and cilantro leaves for garnish"
+    ],
+    "instructions": [
+      "Marinate chicken pieces in yogurt and spices for at least 1 hour.",
+      "Heat oil in a pan and sauté onions, garlic, and ginger until golden.",
+      "Add marinated chicken and cook until browned.",
+      "Stir in tomato puree and cook until chicken is cooked through.",
+      "Add cream, season with salt, and simmer for a few minutes.",
+      "Garnish with cilantro leaves and serve with rice or naan."
+    ],
+    "imageUrl": "https://example.com/chicken_tikka_masala.jpg"
+  }
+  
+]
